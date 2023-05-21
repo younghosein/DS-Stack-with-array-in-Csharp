@@ -1,0 +1,21 @@
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.exe.config
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.exe
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.pdb
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.exe
+C:\Users\RayanGate\source\repos\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.exe.config
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.exe.config
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\bin\Debug\Stack_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Stack_Example_0\Stack_Example_0\obj\Debug\Stack_Example_0.pdb
